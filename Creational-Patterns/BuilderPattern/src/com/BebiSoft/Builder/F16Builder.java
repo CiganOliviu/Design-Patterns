@@ -1,19 +1,28 @@
 package com.BebiSoft.Builder;
 
+import com.BebiSoft.F16.F16;
+import com.BebiSoft.IAircraft.IAircraft;
+
 public class F16Builder extends AircraftBuilder {
+
+    F16 f16 = new F16();
 
     @Override
     public void buildEngine() {
-        System.out.println("Engine build for F16");
+       f16.setEngine("Pratt & Whitney F100");
     }
 
     @Override
     public void buildWings() {
-        System.out.println("Wings build for F16");
+        f16.setWings("Small Wings");
     }
 
     @Override
     public void buildCockpit() {
-        System.out.println("Cockpit build for F16");
+        f16.setCockpit("Integrated Cockpit");
+    }
+
+    public IAircraft getResult() {
+        return f16;
     }
 }
