@@ -11,6 +11,10 @@ A builder pattern encapsulates or hides the process of building a complex object
 
 ### Singleton Pattern
 
+![main page](Documentation-imgs/Singleton-Pattern.png)
+
+Formally the Singleton pattern is defined as ensuring that only a single instance of a class exists and a global point of access to it exists.
+
 ### Prototype Pattern
 
 ### Factory Method Pattern
