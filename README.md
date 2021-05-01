@@ -43,7 +43,17 @@ families of related or dependent objects without specifying their concrete class
 
 ### Adapter Pattern
 
+![main page](Documentation-imgs/Adapter-Pattern.jpg)
+
+Formally, the adapter pattern is defined as allowing incompatible classes to work 
+together by converting the interface of one class into another expected by the clients
+
 ### Bridge Pattern
+
+![main page](Documentation-imgs/Bridge-Pattern.jpg)
+
+Formally, the bridge pattern lets you vary the abstraction independently of the 
+implementation, thus decoupling the two in the process.
 
 ### Composite Pattern
 
