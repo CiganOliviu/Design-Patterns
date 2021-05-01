@@ -34,6 +34,11 @@ creation but delegating the actual instantiation of objects to subclasses.
 
 ### Abstract Factory Pattern
 
+![main page](Documentation-imgs/AbstractFactoryPattern.jpeg)
+
+Formally, the abstract factory pattern is defined as defining an interface to create 
+families of related or dependent objects without specifying their concrete classes.
+
 ## Structural Pattern
 
 ### Adapter Pattern
