@@ -20,12 +20,17 @@ point of access to it exists.
 
 ### Prototype Pattern
 
-![main page](Documentation-imgs/Prototype-Pattern.png)
+![main page](Documentation-imgs/PrototypePattern.png)
 
 Formally, the pattern is defined as specify the kind of objects to create using a prototypical instance as a 
 model and making copies of the prototype to create new objects.
 
 ### Factory Method Pattern
+
+![main page](Documentation-imgs/FactoryMethodPattern.png)
+
+Formally, the factory method is defined as providing an interface for object 
+creation but delegating the actual instantiation of objects to subclasses.
 
 ### Abstract Factory Pattern
 
