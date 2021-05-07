@@ -69,6 +69,10 @@ The decorator pattern can be thought of as a wrapper or more formally a way to e
 
 ### Facade Pattern
 
+![main page](Documentation-imgs/FacadePattern.png)
+
+Formally the facade pattern is defined as a single uber interface to one or more subsystems or interfaces intending to make use of the subsystems easier.
+
 ### Flyweight
 
 ### Proxy Pattern
