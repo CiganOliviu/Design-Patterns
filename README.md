@@ -57,7 +57,7 @@ implementation, thus decoupling the two in the process.
 
 ### Composite Pattern
 
-![main page](Documentation-imgs/CompositePattern.jpg)
+![main page](Documentation-imgs/CompositePattern.png)
 
 Formally, the composite pattern is defined as composing objects into tree structures to represent part-whole hierarchies, thus letting clients uniformly treat individual objects and composition of objects.
 
