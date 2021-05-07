@@ -63,6 +63,10 @@ Formally, the composite pattern is defined as composing objects into tree struct
 
 ### Decorator Pattern
 
+![main page](Documentation-imgs/DecoratorPattern.png)
+
+The decorator pattern can be thought of as a wrapper or more formally a way to enhance or extend the behavior of an object dynamically
+
 ### Facade Pattern
 
 ### Flyweight
