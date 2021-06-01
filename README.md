@@ -89,6 +89,9 @@ Formally, the pattern is defined as decoupling the sender of a request from its 
 
 ### Observer Pattern
 
+
+![main page](Documentation-imgs/ObserverPattern.jpg)
+
 ### Interpreter Pattern
 
 ### Command Pattern
