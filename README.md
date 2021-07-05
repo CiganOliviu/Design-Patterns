@@ -97,11 +97,14 @@ The pattern is formally defined as a one to many dependency between objects so t
 
 ### Command Pattern
 
+Formally, the pattern is defined as representing an action or a request as an object that can then be passed to other objects as parameters, allowing parameterization of clients with requests or actions. The requests can be queued for later execution or logged. Logging requests enables undo operations.
 
 ![main page](Documentation-imgs/Command-Pattern.png)
 
 ### Iterator Pattern
 
+ An iterator is formally defined as a pattern that allows traversing the elements of an aggregate or a collection sequentially without exposing the underlying implementation.
+ 
 ![main page](Documentation-imgs/Iterator-Pattern.png)
 
 ### Mediator Pattern
