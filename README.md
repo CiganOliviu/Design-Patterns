@@ -102,7 +102,7 @@ The pattern is formally defined as a one to many dependency between objects so t
 
 ### Iterator Pattern
 
-![main page](Documentation-imgs/IteratorPattern.png)
+![main page](Documentation-imgs/Iterator-Pattern.png)
 
 ### Mediator Pattern
 
