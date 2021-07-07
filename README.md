@@ -107,6 +107,8 @@ Formally, the pattern is defined as representing an action or a request as an ob
 
 ### Mediator Pattern
 
+![main page](Documentation-imgs/MediatorPattern.png)
+
 ### Memento Pattern
 
 ### State Pattern
