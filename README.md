@@ -119,6 +119,8 @@ Formally, the pattern is defined as encouraging loose coupling among interacting
 
 ### Template Method
 
+![main page](Documentation-imgs/template-pattern.png)
+
 ### Strategy Pattern
 
 ### Visitor Pattern
