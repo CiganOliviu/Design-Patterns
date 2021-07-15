@@ -123,4 +123,6 @@ Formally, the pattern is defined as encouraging loose coupling among interacting
 
 ### Strategy Pattern
 
+![main page](Documentation-imgs/strategy-pattern.png)
+
 ### Visitor Pattern
