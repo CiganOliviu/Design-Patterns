@@ -113,6 +113,8 @@ Formally, the pattern is defined as encouraging loose coupling among interacting
 
 ### Memento Pattern
 
+![main page](Documentation-imgs/memento-pattern.jpg)
+
 ### State Pattern
 
 ### Template Method
