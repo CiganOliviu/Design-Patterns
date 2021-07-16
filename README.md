@@ -125,6 +125,8 @@ Formally, the pattern is defined as allowing subclasses to define parts of an al
 
 ### Strategy Pattern
 
+The strategy pattern is formally defined as encapsulating algorithms belonging to the same family and making them interchangeable. The consumers of the common interface that the algorithms implement allow switching out one algorithm for another seamlessly.
+
 ![main page](Documentation-imgs/strategy-pattern.png)
 
 ### Visitor Pattern
