@@ -119,6 +119,8 @@ The memento pattern let's us capture the internal state of an object without exp
 
 ### Template Method
 
+Formally, the pattern is defined as allowing subclasses to define parts of an algorithm without modifying the overall structure of the algorithm.
+
 ![main page](Documentation-imgs/template-pattern.png)
 
 ### Strategy Pattern
