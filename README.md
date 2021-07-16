@@ -113,6 +113,8 @@ Formally, the pattern is defined as encouraging loose coupling among interacting
 
 ### Memento Pattern
 
+The memento pattern let's us capture the internal state of an object without exposing its internal structure so that the object can be restored to this state later.
+
 ![main page](Documentation-imgs/memento-pattern.jpg)
 
 ### Template Method
