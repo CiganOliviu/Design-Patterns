@@ -131,4 +131,6 @@ The strategy pattern is formally defined as encapsulating algorithms belonging t
 
 ### Visitor Pattern
 
+Formally, the pattern is defined as defining operations to be performed on elements of an object structure without changing the classes of the elements it works on.
+
 ![main page](Documentation-imgs/visitor-pattern.jpg)
